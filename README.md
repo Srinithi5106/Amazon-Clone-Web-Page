@@ -27,12 +27,12 @@ This is a static front-end clone of Amazon's homepage built using only HTML and 
 
 <table>
   <tr>
-    <td><img src="./screenshots/nav.png" alt="Navigation Bar" width="300"/></td>
-    <td><img src="./screenshots/hero.png" alt="Hero Section" width="300"/></td>
+    <td><img src="./nav.png" alt="Navigation Bar" width="300"/></td>
+    <td><img src="./hero.png" alt="Hero Section" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="./screenshots/grid.png" alt="Product Grid" width="300"/></td>
-    <td><img src="./screenshots/footer.png" alt="Footer Section" width="300"/></td>
+    <td><img src="./grid.png" alt="Product Grid" width="300"/></td>
+    <td><img src="./footer.png" alt="Footer Section" width="300"/></td>
   </tr>
 </table>
 
